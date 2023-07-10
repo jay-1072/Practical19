@@ -260,3 +260,4 @@ E:\Simform_Internship\Backend\.NET CORE Practicals\Practical19\Practical19_API\o
 E:\Simform_Internship\Backend\.NET CORE Practicals\Practical19\Practical19_API\obj\Debug\net7.0\ref\Practical19_API.dll
 E:\Simform_Internship\Backend\.NET CORE Practicals\Practical19\Practical19_API\bin\Debug\net7.0\AutoMapper.dll
 E:\Simform_Internship\Backend\.NET CORE Practicals\Practical19\Practical19_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Simform_Internship\Backend\.NET CORE Practicals\Practical19\Practical19_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
